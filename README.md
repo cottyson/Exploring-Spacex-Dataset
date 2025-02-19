@@ -1,1 +1,1 @@
-This repository focuses on the data scraping, data analysis, data preprocesing, data training and validation, and last but not least, data evaluation. Is there to note that there was no model deployment due to the academical purpose.
+### This repository focuses on the data scraping, data analysis, data preprocesing, data training and validation, and last but not least, data evaluation. Is there to note that there was no model deployment due to the academical purpose.
